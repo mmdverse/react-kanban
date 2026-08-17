@@ -41,7 +41,7 @@
 
 ```bash
 # Clone & install
-git clone https://github.com/mamadiezad/react-kanban.git
+git clone https://github.com/mmdverse/react-kanban.git
 cd react-kanban
 npm install
 
@@ -115,9 +115,9 @@ The board automatically loads from `localStorage`. Add tasks using the **"+ Add 
 
 ## 🔗 Related Projects
 
-- [FastAPI Tasks](https://github.com/mamadiezad/fastapi-tasks) — REST API backend for task management
-- [Next.js Portfolio](https://github.com/mamadiezad/nextjs-portfolio) — Personal portfolio website
-- [TS Design Patterns](https://github.com/mamadiezad/ts-design-patterns) — Design patterns in TypeScript
+- [FastAPI Tasks](https://github.com/mmdverse/fastapi-tasks) — REST API backend for task management
+- [Next.js Portfolio](https://github.com/mmdverse/nextjs-portfolio) — Personal portfolio website
+- [TS Design Patterns](https://github.com/mmdverse/ts-design-patterns) — Design patterns in TypeScript
 
 ---
 
@@ -128,6 +128,6 @@ The board automatically loads from `localStorage`. Add tasks using the **"+ Add 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/mamadiezad">Mohammad</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/mmdverse">Mohammad</a></sub>
 </p>
-<p align="center">ساخته شده با ❤️ توسط <a href="https://github.com/mamadiezad">Mohammad</a> | <a href="https://t.me/llllxyz">📱 تلگرام</a></p>
+<p align="center">ساخته شده با ❤️ توسط <a href="https://github.com/mmdverse">Mohammad</a> | <a href="https://t.me/llllxyz">📱 تلگرام</a></p>
